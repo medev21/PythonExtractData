@@ -1,0 +1,1043 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>List of FIFA World Cup finals - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"List_of_FIFA_World_Cup_finals","wgTitle":"List of FIFA World Cup finals","wgCurRevisionId":684635667,"wgRevisionId":684635667,"wgArticleId":8821389,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from November 2012","FIFA World Cup finals","FIFA World Cup-related lists","FIFA World Cup-winning countries","Lists of FIFA World Cup matches","Featured lists"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"List_of_FIFA_World_Cup_finals","wgRelevantArticleId":8821389,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Philipp_Lahm_lifts_the_2014_FIFA_World_Cup.jpg/100px-Philipp_Lahm_lifts_the_2014_FIFA_World_Cup.jpg","wgULSAcceptLanguageList":["it-it","it","en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q2899571","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.7" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/List_of_FIFA_World_Cup_finals" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.7/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-List_of_FIFA_World_Cup_finals skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+<div id="mw-indicator-featured-star" class="mw-indicator"><a href="/wiki/Wikipedia:Featured_lists" title="This is a featured list. Click here for more information."><img alt="This is a featured list. Click here for more information." src="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/20px-Cscr-featured.svg.png" width="20" height="19" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/30px-Cscr-featured.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e7/Cscr-featured.svg/40px-Cscr-featured.svg.png 2x" data-file-width="462" data-file-height="438" /></a></div>
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">List of FIFA World Cup finals</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="hatnote">For a list of FIFA Women's World Cup finals, see <a href="/wiki/List_of_FIFA_Women%27s_World_Cup_finals" title="List of FIFA Women's World Cup finals">List of FIFA Women's World Cup finals</a>.</div>
+<table class="infobox football" style="width:22em">
+<caption>List of FIFA World Cup finals</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a href="/wiki/File:Philipp_Lahm_lifts_the_2014_FIFA_World_Cup.jpg" class="image"><img alt="Philipp Lahm lifts the 2014 FIFA World Cup.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Philipp_Lahm_lifts_the_2014_FIFA_World_Cup.jpg/200px-Philipp_Lahm_lifts_the_2014_FIFA_World_Cup.jpg" width="200" height="104" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Philipp_Lahm_lifts_the_2014_FIFA_World_Cup.jpg/300px-Philipp_Lahm_lifts_the_2014_FIFA_World_Cup.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Philipp_Lahm_lifts_the_2014_FIFA_World_Cup.jpg/400px-Philipp_Lahm_lifts_the_2014_FIFA_World_Cup.jpg 2x" data-file-width="4256" data-file-height="2204" /></a>
+<div><a href="/wiki/Germany_national_football_team" title="Germany national football team">Germany</a> celebrating after their win against <a href="/wiki/Argentina_national_football_team" title="Argentina national football team">Argentina</a> in the <a href="/wiki/2014_FIFA_World_Cup_Final" title="2014 FIFA World Cup Final">2014 World Cup final</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row">Founded</th>
+<td>1930</td>
+</tr>
+<tr>
+<th scope="row">Region</th>
+<td>International (<a href="/wiki/FIFA" title="FIFA">FIFA</a>)</td>
+</tr>
+<tr>
+<th scope="row">Number of teams</th>
+<td>204 (qualifiers)<br />
+32 (finals)</td>
+</tr>
+<tr>
+<th scope="row">Current champions</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany_national_football_team" title="Germany national football team">Germany</a> (4th&#160;title)</td>
+</tr>
+<tr>
+<th scope="row">Most successful team(s)</th>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a> (5&#160;titles)</td>
+</tr>
+</table>
+<p>The <a href="/wiki/FIFA_World_Cup" title="FIFA World Cup">FIFA World Cup</a> is an international <a href="/wiki/Association_football" title="Association football">association football</a> competition established in <a href="/wiki/1930_FIFA_World_Cup" title="1930 FIFA World Cup">1930</a>. It is contested by the <a href="/wiki/List_of_men%27s_national_association_football_teams" title="List of men's national association football teams">men's national teams</a> of the members of <a href="/wiki/FIFA" title="FIFA">Fédération Internationale de Football Association</a> (FIFA), the sport's global governing body. The tournament has taken place every four years, except in 1942 and 1946, when the competition was cancelled due to <a href="/wiki/World_War_II" title="World War II">World War II</a>. The <a href="/wiki/2014_FIFA_World_Cup" title="2014 FIFA World Cup">most recent World Cup</a>, hosted by Brazil in 2014, was won by <a href="/wiki/Germany_national_football_team" title="Germany national football team">Germany</a>, who beat <a href="/wiki/Argentina_national_football_team" title="Argentina national football team">Argentina</a> 1–0 after extra time.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1"><span>[</span>1<span>]</span></a></sup></p>
+<p>The World Cup final match is the last of the competition, and the result determines which country is declared world champions. If after 90 minutes of regular play the score is a <a href="/wiki/Tie_(draw)" title="Tie (draw)">draw</a>, an additional 30-minute period of play, called <a href="/wiki/Extra_time" title="Extra time" class="mw-redirect">extra time</a>, is added. If such a game is still tied after extra time it is decided by kicks from the <a href="/wiki/Penalty_shoot-out_(association_football)" title="Penalty shoot-out (association football)">penalty shoot-out</a>. The winning penalty shoot-out area team are then declared champions.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2"><span>[</span>2<span>]</span></a></sup> The tournament has been decided by a one-off match on every occasion except <a href="/wiki/1950_FIFA_World_Cup" title="1950 FIFA World Cup">1950</a>, when the tournament winner was decided by a final round-robin group contested by four teams (Uruguay, Brazil, Sweden, and Spain). Uruguay's 2–1 victory over Brazil was the decisive match (and one of the last two matches of the tournament) which put them ahead on points and ensured that they finished top of the group as world champions. Therefore, this match is regarded by FIFA as the <i>de facto</i> final of the 1950 World Cup.<sup id="cite_ref-All_results_3-0" class="reference"><a href="#cite_note-All_results-3"><span>[</span>3<span>]</span></a></sup></p>
+<p>In the 20 tournaments held, 77 nations have <a href="/wiki/National_team_appearances_in_the_FIFA_World_Cup" title="National team appearances in the FIFA World Cup">appeared at least once</a>. Of these, 12 have made it to the final match, and eight have won.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5"><span>[</span>n 1<span>]</span></a></sup> With five titles, <a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a> is the most successful World Cup team and also the only nation to have participated in every World Cup finals tournament.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6"><span>[</span>5<span>]</span></a></sup> <a href="/wiki/Italy_national_football_team" title="Italy national football team">Italy</a> and <a href="/wiki/Germany_national_football_team" title="Germany national football team">Germany</a> have four titles. The other former champions are <a href="/wiki/Uruguay_national_football_team" title="Uruguay national football team">Uruguay</a> and <a href="/wiki/Argentina_national_football_team" title="Argentina national football team">Argentina</a> with two titles each, and <a href="/wiki/England_national_football_team" title="England national football team">England</a>, <a href="/wiki/France_national_football_team" title="France national football team">France</a>, and <a href="/wiki/Spain_national_football_team" title="Spain national football team">Spain</a> with one each. The current champions, Germany, took their fourth title in 2014, and it is the first title for the Reunified German team. The 2014 German team also became the first European team to win in South America.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7"><span>[</span>6<span>]</span></a></sup> The team that wins the finals receive the <a href="/wiki/FIFA_World_Cup_Trophy" title="FIFA World Cup Trophy">FIFA World Cup Trophy</a>, and their name is engraved in the bottom side of the trophy.<sup id="cite_ref-globo_8-0" class="reference"><a href="#cite_note-globo-8"><span>[</span>7<span>]</span></a></sup></p>
+<p>The <a href="/wiki/1970_FIFA_World_Cup_Final" title="1970 FIFA World Cup Final">1970</a> and <a href="/wiki/1994_FIFA_World_Cup_Final" title="1994 FIFA World Cup Final">1994</a> along with the <a href="/wiki/1986_FIFA_World_Cup_Final" title="1986 FIFA World Cup Final">1986</a>, <a href="/wiki/1990_FIFA_World_Cup_Final" title="1990 FIFA World Cup Final">1990</a> and <a href="/wiki/2014_FIFA_World_Cup_Final" title="2014 FIFA World Cup Final">2014</a> games are to date the only matches competed by the same teams (Brazil–Italy and Argentina–Germany respectively). As of 2014, the <a href="/wiki/1934_FIFA_World_Cup_Final" title="1934 FIFA World Cup Final">1934 final</a><sup id="cite_ref-9" class="reference"><a href="#cite_note-9"><span>[</span>n 2<span>]</span></a></sup> remains the latest final to have been between two teams playing their first final. The final match of the upcoming <a href="/wiki/2018_World_Cup" title="2018 World Cup" class="mw-redirect">2018 World Cup</a> in Russia is scheduled to take place at the country's biggest sports complex, the <a href="/wiki/Luzhniki_Stadium" title="Luzhniki Stadium">Luzhniki Stadium</a> in Moscow.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10"><span>[</span>8<span>]</span></a></sup></p>
+<p>As of 2014, only nations from Europe and South America have competed in a World Cup Final.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#List_of_finals"><span class="tocnumber">1</span> <span class="toctext">List of finals</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Results_by_nation"><span class="tocnumber">2</span> <span class="toctext">Results by nation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Results_by_confederation"><span class="tocnumber">3</span> <span class="toctext">Results by confederation</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Footnotes"><span class="tocnumber">4</span> <span class="toctext">Footnotes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="List_of_finals">List of finals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=edit&amp;section=1" title="Edit section: List of finals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<caption>Key to the list of finals</caption>
+<tr>
+<td width="40px" bgcolor="#FBCEB1" align="center"><img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td>Match was won during <a href="/wiki/Overtime_(sports)#Association_football" title="Overtime (sports)">extra time</a></td>
+</tr>
+<tr>
+<td width="40px" bgcolor="#CEDFF2" align="center"><img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" width="9" height="14" data-file-width="9" data-file-height="14" /></td>
+<td>Match was won on a <a href="/wiki/Penalty_shoot-out_(association_football)" title="Penalty shoot-out (association football)">penalty shoot-out</a></td>
+</tr>
+</table>
+<ul>
+<li>The "Year" column refers to the year the World Cup was held, and <a href="/wiki/Wikipedia:Wikilink" title="Wikipedia:Wikilink" class="mw-redirect">wikilinks</a> to the article about that tournament. The wikilinks in the "Final score" column point to the article about that tournament's final game. Links in the "Winners" and "Runners-up" columns point to the articles for the national football teams of the countries, not the articles for the countries.</li>
+</ul>
+<table class="sortable plainrowheaders wikitable">
+<caption>List of finals matches, their venues and locations, the finalists and final scores</caption>
+<tr>
+<th scope="col">Year</th>
+<th scope="col">Winners</th>
+<th scope="col">Final score<sup id="cite_ref-All_results_3-1" class="reference"><a href="#cite_note-All_results-3"><span>[</span>3<span>]</span></a></sup></th>
+<th scope="col">Runners-up</th>
+<th scope="col">Venue</th>
+<th scope="col">Location</th>
+<th scope="col">Attendance</th>
+<th scope="col" class="unsortable">References</th>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1930_FIFA_World_Cup" title="1930 FIFA World Cup">1930</a></th>
+<td align="right"><a href="/wiki/Uruguay_national_football_team" title="Uruguay national football team">Uruguay</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" data-file-width="900" data-file-height="600" /></span></td>
+<td align="center"><a href="/wiki/1930_FIFA_World_Cup_Final" title="1930 FIFA World Cup Final">4–2</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_Argentina_%28alternative%29.svg/23px-Flag_of_Argentina_%28alternative%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_Argentina_%28alternative%29.svg/35px-Flag_of_Argentina_%28alternative%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_Argentina_%28alternative%29.svg/46px-Flag_of_Argentina_%28alternative%29.svg.png 2x" data-file-width="980" data-file-height="630" />&#160;</span><a href="/wiki/Argentina_national_football_team" title="Argentina national football team">Argentina</a></td>
+<td><a href="/wiki/Estadio_Centenario" title="Estadio Centenario">Estadio Centenario</a></td>
+<td><span style="display:none;" class="sortkey">Uruguay, Montevideo !</span><span class="sorttext"><a href="/wiki/Montevideo" title="Montevideo">Montevideo</a>, <a href="/wiki/Uruguay" title="Uruguay">Uruguay</a></span></td>
+<td align="center">80,000</td>
+<td align="center"><sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>9<span>]</span></a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>10<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1934_FIFA_World_Cup" title="1934 FIFA World Cup">1934</a></th>
+<td align="right"><a href="/wiki/Italy_national_football_team" title="Italy national football team">Italy</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/23px-Flag_of_Italy_%281861-1946%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/35px-Flag_of_Italy_%281861-1946%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/45px-Flag_of_Italy_%281861-1946%29.svg.png 2x" data-file-width="1500" data-file-height="1000" /></span></td>
+<td align="center" bgcolor="#FBCEB1"><span style="visibility:hidden;color:transparent;">&#160;&#160;</span><a href="/wiki/1934_FIFA_World_Cup_Final" title="1934 FIFA World Cup Final">2–1</a><sup><img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" width="9" height="14" data-file-width="9" data-file-height="14" /></sup><br />
+<sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>n 3<span>]</span></a></sup></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Czechoslovakia_national_football_team" title="Czechoslovakia national football team">Czechoslovakia</a></td>
+<td><a href="/wiki/Stadio_Nazionale_PNF" title="Stadio Nazionale PNF">Stadio Nazionale PNF</a></td>
+<td><span style="display:none;" class="sortkey">Italy, Rome !</span><span class="sorttext"><a href="/wiki/Rome" title="Rome">Rome</a>, <a href="/wiki/Italy" title="Italy">Italy</a></span></td>
+<td align="center">50,000</td>
+<td align="center"><sup id="cite_ref-FIFA_1934_13-1" class="reference"><a href="#cite_note-FIFA_1934-13"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-BBC1934_14-1" class="reference"><a href="#cite_note-BBC1934-14"><span>[</span>12<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1938_FIFA_World_Cup" title="1938 FIFA World Cup">1938</a></th>
+<td align="right"><a href="/wiki/Italy_national_football_team" title="Italy national football team">Italy</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/23px-Flag_of_Italy_%281861-1946%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/35px-Flag_of_Italy_%281861-1946%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/45px-Flag_of_Italy_%281861-1946%29.svg.png 2x" data-file-width="1500" data-file-height="1000" /></span></td>
+<td align="center"><a href="/wiki/1938_FIFA_World_Cup_Final" title="1938 FIFA World Cup Final">4–2</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Hungary_%281920%E2%80%931946%29.svg/23px-Flag_of_Hungary_%281920%E2%80%931946%29.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Hungary_%281920%E2%80%931946%29.svg/35px-Flag_of_Hungary_%281920%E2%80%931946%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Hungary_%281920%E2%80%931946%29.svg/46px-Flag_of_Hungary_%281920%E2%80%931946%29.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Hungary_national_football_team" title="Hungary national football team">Hungary</a></td>
+<td><a href="/wiki/Stade_Olympique_Yves-du-Manoir" title="Stade Olympique Yves-du-Manoir">Stade Olympique de Colombes</a></td>
+<td><span style="display:none;" class="sortkey">France, Paris !</span><span class="sorttext"><a href="/wiki/Paris" title="Paris">Paris</a>, <a href="/wiki/France" title="France">France</a></span></td>
+<td align="center">45,000</td>
+<td align="center"><sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>14<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1950_FIFA_World_Cup" title="1950 FIFA World Cup">1950</a></th>
+<td align="right"><a href="/wiki/Uruguay_national_football_team" title="Uruguay national football team">Uruguay</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" data-file-width="900" data-file-height="600" /></span></td>
+<td align="center"><a href="/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)" title="Uruguay v Brazil (1950 FIFA World Cup)">2–1</a><br />
+<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>n 4<span>]</span></a></sup></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_Brazil_%281889-1960%29.svg/22px-Flag_of_Brazil_%281889-1960%29.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_Brazil_%281889-1960%29.svg/33px-Flag_of_Brazil_%281889-1960%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_Brazil_%281889-1960%29.svg/43px-Flag_of_Brazil_%281889-1960%29.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a></td>
+<td><a href="/wiki/Maracan%C3%A3_Stadium" title="Maracanã Stadium">Estádio do Maracanã</a></td>
+<td><span style="display:none;" class="sortkey">Brazil, Rio de Janeiro !</span><span class="sorttext"><a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a></span></td>
+<td align="center">174,000</td>
+<td align="center"><sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>15<span>]</span></a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>16<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1954_FIFA_World_Cup" title="1954 FIFA World Cup">1954</a></th>
+<td align="right"><a href="/wiki/Germany_national_football_team" title="Germany national football team">West Germany</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></span></td>
+<td align="center"><a href="/wiki/1954_FIFA_World_Cup_Final" title="1954 FIFA World Cup Final">3–2</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Hungary_%281949-1956%29.svg/23px-Flag_of_Hungary_%281949-1956%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Hungary_%281949-1956%29.svg/35px-Flag_of_Hungary_%281949-1956%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Hungary_%281949-1956%29.svg/45px-Flag_of_Hungary_%281949-1956%29.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Hungary_national_football_team" title="Hungary national football team">Hungary</a></td>
+<td><a href="/wiki/Wankdorf_Stadium" title="Wankdorf Stadium">Wankdorf Stadium</a></td>
+<td><span style="display:none;" class="sortkey">Switzerland, Bern !</span><span class="sorttext"><a href="/wiki/Bern" title="Bern">Bern</a>, <a href="/wiki/Switzerland" title="Switzerland">Switzerland</a></span></td>
+<td align="center">60,000</td>
+<td align="center"><sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>17<span>]</span></a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>18<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1958_FIFA_World_Cup" title="1958 FIFA World Cup">1958</a></th>
+<td align="right"><a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_Brazil_%281889-1960%29.svg/22px-Flag_of_Brazil_%281889-1960%29.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_Brazil_%281889-1960%29.svg/33px-Flag_of_Brazil_%281889-1960%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_Brazil_%281889-1960%29.svg/43px-Flag_of_Brazil_%281889-1960%29.svg.png 2x" data-file-width="720" data-file-height="504" /></span></td>
+<td align="center"><a href="/wiki/1958_FIFA_World_Cup_Final" title="1958 FIFA World Cup Final">5–2</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" />&#160;</span><a href="/wiki/Sweden_national_football_team" title="Sweden national football team">Sweden</a></td>
+<td><a href="/wiki/R%C3%A5sunda_Stadium" title="Råsunda Stadium">Råsunda Stadium</a></td>
+<td><span style="display:none;" class="sortkey">Sweden, Solna !</span><span class="sorttext"><a href="/wiki/Solna_Municipality" title="Solna Municipality">Solna</a>, <a href="/wiki/Sweden" title="Sweden">Sweden</a></span></td>
+<td align="center">51,800</td>
+<td align="center"><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>19<span>]</span></a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>20<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1962_FIFA_World_Cup" title="1962 FIFA World Cup">1962</a></th>
+<td align="right"><a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Brazil_%281960-1968%29.svg/22px-Flag_of_Brazil_%281960-1968%29.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Brazil_%281960-1968%29.svg/33px-Flag_of_Brazil_%281960-1968%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Brazil_%281960-1968%29.svg/43px-Flag_of_Brazil_%281960-1968%29.svg.png 2x" data-file-width="720" data-file-height="504" /></span></td>
+<td align="center"><a href="/wiki/1962_FIFA_World_Cup_Final" title="1962 FIFA World Cup Final">3–1</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Czechoslovakia_national_football_team" title="Czechoslovakia national football team">Czechoslovakia</a></td>
+<td><a href="/wiki/Estadio_Nacional_de_Chile" title="Estadio Nacional de Chile" class="mw-redirect">Estadio Nacional</a></td>
+<td><span style="display:none;" class="sortkey">Chile, Santiago !</span><span class="sorttext"><a href="/wiki/Santiago" title="Santiago">Santiago</a>, <a href="/wiki/Chile" title="Chile">Chile</a></span></td>
+<td align="center">69,000</td>
+<td align="center"><sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>21<span>]</span></a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>22<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1966_FIFA_World_Cup" title="1966 FIFA World Cup">1966</a></th>
+<td align="right"><a href="/wiki/England_national_football_team" title="England national football team">England</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" /></span></td>
+<td align="center" bgcolor="#FBCEB1"><span style="visibility:hidden;color:transparent;">&#160;&#160;</span><a href="/wiki/1966_FIFA_World_Cup_Final" title="1966 FIFA World Cup Final">4–2</a><sup><img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" width="9" height="14" data-file-width="9" data-file-height="14" /></sup><br />
+<sup id="cite_ref-29" class="reference"><a href="#cite_note-29"><span>[</span>n 5<span>]</span></a></sup></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany_national_football_team" title="Germany national football team">West Germany</a></td>
+<td><a href="/wiki/Wembley_Stadium_(1923)" title="Wembley Stadium (1923)">Wembley Stadium</a></td>
+<td><span style="display:none;" class="sortkey">England, London !</span><span class="sorttext"><a href="/wiki/London" title="London">London</a>, <a href="/wiki/England" title="England">England</a></span></td>
+<td align="center">93,000</td>
+<td align="center"><sup id="cite_ref-FIFA_1966_27-1" class="reference"><a href="#cite_note-FIFA_1966-27"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-BBC1966_28-1" class="reference"><a href="#cite_note-BBC1966-28"><span>[</span>24<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1970_FIFA_World_Cup" title="1970 FIFA World Cup">1970</a></th>
+<td align="right"><a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Brazil_%281968-1992%29.svg/22px-Flag_of_Brazil_%281968-1992%29.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Brazil_%281968-1992%29.svg/33px-Flag_of_Brazil_%281968-1992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Brazil_%281968-1992%29.svg/43px-Flag_of_Brazil_%281968-1992%29.svg.png 2x" data-file-width="720" data-file-height="504" /></span></td>
+<td align="center"><a href="/wiki/1970_FIFA_World_Cup_Final" title="1970 FIFA World Cup Final">4–1</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy_national_football_team" title="Italy national football team">Italy</a></td>
+<td><a href="/wiki/Estadio_Azteca" title="Estadio Azteca">Estadio Azteca</a></td>
+<td><span style="display:none;" class="sortkey">Mexico, Mexico City !</span><span class="sorttext"><a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a>, <a href="/wiki/Mexico" title="Mexico">Mexico</a></span></td>
+<td align="center">107,412</td>
+<td align="center"><sup id="cite_ref-30" class="reference"><a href="#cite_note-30"><span>[</span>25<span>]</span></a></sup><sup id="cite_ref-31" class="reference"><a href="#cite_note-31"><span>[</span>26<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1974_FIFA_World_Cup" title="1974 FIFA World Cup">1974</a></th>
+<td align="right"><a href="/wiki/Germany_national_football_team" title="Germany national football team">West Germany</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></span></td>
+<td align="center"><a href="/wiki/1974_FIFA_World_Cup_Final" title="1974 FIFA World Cup Final">2–1</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Netherlands_national_football_team" title="Netherlands national football team">Netherlands</a></td>
+<td><a href="/wiki/Olympic_Stadium_(Munich)" title="Olympic Stadium (Munich)" class="mw-redirect">Olympiastadion</a></td>
+<td><span style="display:none;" class="sortkey">West Germany, Munich !</span><span class="sorttext"><a href="/wiki/Munich" title="Munich">Munich</a>, <a href="/wiki/West_Germany" title="West Germany">West Germany</a></span></td>
+<td align="center">75,200</td>
+<td align="center"><sup id="cite_ref-32" class="reference"><a href="#cite_note-32"><span>[</span>27<span>]</span></a></sup><sup id="cite_ref-33" class="reference"><a href="#cite_note-33"><span>[</span>28<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1978_FIFA_World_Cup" title="1978 FIFA World Cup">1978</a></th>
+<td align="right"><a href="/wiki/Argentina_national_football_team" title="Argentina national football team">Argentina</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_Argentina_%28alternative%29.svg/23px-Flag_of_Argentina_%28alternative%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_Argentina_%28alternative%29.svg/35px-Flag_of_Argentina_%28alternative%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_Argentina_%28alternative%29.svg/46px-Flag_of_Argentina_%28alternative%29.svg.png 2x" data-file-width="980" data-file-height="630" /></span></td>
+<td align="center" bgcolor="#FBCEB1"><span style="visibility:hidden;color:transparent;">&#160;&#160;</span><a href="/wiki/1978_FIFA_World_Cup_Final" title="1978 FIFA World Cup Final">3–1</a><sup><img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" width="9" height="14" data-file-width="9" data-file-height="14" /></sup><br />
+<sup id="cite_ref-36" class="reference"><a href="#cite_note-36"><span>[</span>n 6<span>]</span></a></sup></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Netherlands_national_football_team" title="Netherlands national football team">Netherlands</a></td>
+<td><a href="/wiki/Estadio_Monumental_Antonio_Vespucio_Liberti" title="Estadio Monumental Antonio Vespucio Liberti">Estadio Monumental</a></td>
+<td><span style="display:none;" class="sortkey">Argentina, Buenos Aires !</span><span class="sorttext"><a href="/wiki/Buenos_Aires" title="Buenos Aires">Buenos Aires</a>, <a href="/wiki/Argentina" title="Argentina">Argentina</a></span></td>
+<td align="center">71,483</td>
+<td align="center"><sup id="cite_ref-FIFA_1978_34-1" class="reference"><a href="#cite_note-FIFA_1978-34"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-BBC1978_35-1" class="reference"><a href="#cite_note-BBC1978-35"><span>[</span>30<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1982_FIFA_World_Cup" title="1982 FIFA World Cup">1982</a></th>
+<td align="right"><a href="/wiki/Italy_national_football_team" title="Italy national football team">Italy</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></span></td>
+<td align="center"><a href="/wiki/1982_FIFA_World_Cup_Final" title="1982 FIFA World Cup Final">3–1</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany_national_football_team" title="Germany national football team">West Germany</a></td>
+<td><a href="/wiki/Santiago_Bernab%C3%A9u_Stadium" title="Santiago Bernabéu Stadium">Santiago Bernabéu</a></td>
+<td><span style="display:none;" class="sortkey">Spain, Madrid !</span><span class="sorttext"><a href="/wiki/Madrid" title="Madrid">Madrid</a>, <a href="/wiki/Spain" title="Spain">Spain</a></span></td>
+<td align="center">90,000</td>
+<td align="center"><sup id="cite_ref-37" class="reference"><a href="#cite_note-37"><span>[</span>31<span>]</span></a></sup><sup id="cite_ref-38" class="reference"><a href="#cite_note-38"><span>[</span>32<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1986_FIFA_World_Cup" title="1986 FIFA World Cup">1986</a></th>
+<td align="right"><a href="/wiki/Argentina_national_football_team" title="Argentina national football team">Argentina</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></span></td>
+<td align="center"><a href="/wiki/1986_FIFA_World_Cup_Final" title="1986 FIFA World Cup Final">3–2</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany_national_football_team" title="Germany national football team">West Germany</a></td>
+<td><a href="/wiki/Estadio_Azteca" title="Estadio Azteca">Estadio Azteca</a></td>
+<td><span style="display:none;" class="sortkey">Mexico, Mexico City !</span><span class="sorttext"><a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a>, <a href="/wiki/Mexico" title="Mexico">Mexico</a></span></td>
+<td align="center">114,600</td>
+<td align="center"><sup id="cite_ref-39" class="reference"><a href="#cite_note-39"><span>[</span>33<span>]</span></a></sup><sup id="cite_ref-40" class="reference"><a href="#cite_note-40"><span>[</span>34<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1990_FIFA_World_Cup" title="1990 FIFA World Cup">1990</a></th>
+<td align="right"><a href="/wiki/Germany_national_football_team" title="Germany national football team">West Germany</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></span></td>
+<td align="center"><a href="/wiki/1990_FIFA_World_Cup_Final" title="1990 FIFA World Cup Final">1–0</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Argentina_national_football_team" title="Argentina national football team">Argentina</a></td>
+<td><a href="/wiki/Stadio_Olimpico" title="Stadio Olimpico">Stadio Olimpico</a></td>
+<td><span style="display:none;" class="sortkey">Italy, Rome !</span><span class="sorttext"><a href="/wiki/Rome" title="Rome">Rome</a>, <a href="/wiki/Italy" title="Italy">Italy</a></span></td>
+<td align="center">73,603</td>
+<td align="center"><sup id="cite_ref-41" class="reference"><a href="#cite_note-41"><span>[</span>35<span>]</span></a></sup><sup id="cite_ref-42" class="reference"><a href="#cite_note-42"><span>[</span>36<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1994_FIFA_World_Cup" title="1994 FIFA World Cup">1994</a></th>
+<td align="right"><a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></span></td>
+<td align="center" bgcolor="#CEDFF2"><span style="visibility:hidden;color:transparent;">&#160;&#160;</span><a href="/wiki/1994_FIFA_World_Cup_Final" title="1994 FIFA World Cup Final">0–0</a><sup><img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" width="9" height="14" data-file-width="9" data-file-height="14" /></sup><br />
+<sup id="cite_ref-45" class="reference"><a href="#cite_note-45"><span>[</span>n 7<span>]</span></a></sup></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy_national_football_team" title="Italy national football team">Italy</a></td>
+<td><a href="/wiki/Rose_Bowl_(stadium)" title="Rose Bowl (stadium)">Rose Bowl</a></td>
+<td><span style="display:none;" class="sortkey">United States, Pasadena, California !</span><span class="sorttext"><a href="/wiki/Pasadena,_California" title="Pasadena, California">Pasadena, California</a>, <a href="/wiki/United_States" title="United States">United States</a></span></td>
+<td align="center">94,194</td>
+<td align="center"><sup id="cite_ref-FIFA_1994_43-1" class="reference"><a href="#cite_note-FIFA_1994-43"><span>[</span>37<span>]</span></a></sup><sup id="cite_ref-BBC1994_44-1" class="reference"><a href="#cite_note-BBC1994-44"><span>[</span>38<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/1998_FIFA_World_Cup" title="1998 FIFA World Cup">1998</a></th>
+<td align="right"><a href="/wiki/France_national_football_team" title="France national football team">France</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" /></span></td>
+<td align="center"><a href="/wiki/1998_FIFA_World_Cup_Final" title="1998 FIFA World Cup Final">3–0</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a></td>
+<td><a href="/wiki/Stade_de_France" title="Stade de France">Stade de France</a></td>
+<td><span style="display:none;" class="sortkey">France, Saint-Denis !</span><span class="sorttext"><a href="/wiki/Saint-Denis,_Seine-Saint-Denis" title="Saint-Denis, Seine-Saint-Denis">Saint-Denis</a>, <a href="/wiki/France" title="France">France</a></span></td>
+<td align="center">80,000</td>
+<td align="center"><sup id="cite_ref-46" class="reference"><a href="#cite_note-46"><span>[</span>39<span>]</span></a></sup><sup id="cite_ref-47" class="reference"><a href="#cite_note-47"><span>[</span>40<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/2002_FIFA_World_Cup" title="2002 FIFA World Cup">2002</a></th>
+<td align="right"><a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></span></td>
+<td align="center"><a href="/wiki/2002_FIFA_World_Cup_Final" title="2002 FIFA World Cup Final">2–0</a></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany_national_football_team" title="Germany national football team">Germany</a></td>
+<td><a href="/wiki/International_Stadium_Yokohama" title="International Stadium Yokohama">International Stadium Yokohama</a></td>
+<td><span style="display:none;" class="sortkey">Japan, Yokohama !</span><span class="sorttext"><a href="/wiki/Yokohama" title="Yokohama">Yokohama</a>, <a href="/wiki/Japan" title="Japan">Japan</a></span></td>
+<td align="center">69,029</td>
+<td align="center"><sup id="cite_ref-48" class="reference"><a href="#cite_note-48"><span>[</span>41<span>]</span></a></sup><sup id="cite_ref-49" class="reference"><a href="#cite_note-49"><span>[</span>42<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/2006_FIFA_World_Cup" title="2006 FIFA World Cup">2006</a></th>
+<td align="right"><a href="/wiki/Italy_national_football_team" title="Italy national football team">Italy</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></span></td>
+<td align="center" bgcolor="#CEDFF2"><span style="visibility:hidden;color:transparent;">&#160;&#160;</span><a href="/wiki/2006_FIFA_World_Cup_Final" title="2006 FIFA World Cup Final">1–1</a><sup><img alt="double-dagger" src="//upload.wikimedia.org/wikipedia/commons/f/f9/Double-dagger-14-plain.png" width="9" height="14" data-file-width="9" data-file-height="14" /></sup><br />
+<sup id="cite_ref-52" class="reference"><a href="#cite_note-52"><span>[</span>n 8<span>]</span></a></sup></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/France_national_football_team" title="France national football team">France</a></td>
+<td><a href="/wiki/Olympic_Stadium_(Berlin)" title="Olympic Stadium (Berlin)" class="mw-redirect">Olympiastadion</a></td>
+<td><span style="display:none;" class="sortkey">Germany, Berlin !</span><span class="sorttext"><a href="/wiki/Berlin" title="Berlin">Berlin</a>, <a href="/wiki/Germany" title="Germany">Germany</a></span></td>
+<td align="center">69,000</td>
+<td align="center"><sup id="cite_ref-FIFA_2006_50-1" class="reference"><a href="#cite_note-FIFA_2006-50"><span>[</span>43<span>]</span></a></sup><sup id="cite_ref-BBC2006_51-1" class="reference"><a href="#cite_note-BBC2006-51"><span>[</span>44<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/2010_FIFA_World_Cup" title="2010 FIFA World Cup">2010</a></th>
+<td align="right"><a href="/wiki/Spain_national_football_team" title="Spain national football team">Spain</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" /></span></td>
+<td align="center" bgcolor="#FBCEB1"><span style="visibility:hidden;color:transparent;">&#160;&#160;</span><a href="/wiki/2010_FIFA_World_Cup_Final" title="2010 FIFA World Cup Final">1–0</a><sup><img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" width="9" height="14" data-file-width="9" data-file-height="14" /></sup><br />
+<sup id="cite_ref-55" class="reference"><a href="#cite_note-55"><span>[</span>n 9<span>]</span></a></sup></td>
+<td><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Netherlands_national_football_team" title="Netherlands national football team">Netherlands</a></td>
+<td><a href="/wiki/FNB_Stadium" title="FNB Stadium">Soccer City</a></td>
+<td><span style="display:none;" class="sortkey">South Africa, Johannesburg !</span><span class="sorttext"><a href="/wiki/Johannesburg" title="Johannesburg">Johannesburg</a>, <a href="/wiki/South_Africa" title="South Africa">South Africa</a></span></td>
+<td align="center">84,490</td>
+<td align="center"><sup id="cite_ref-FIFA_2010_53-1" class="reference"><a href="#cite_note-FIFA_2010-53"><span>[</span>45<span>]</span></a></sup><sup id="cite_ref-BBC2010_54-1" class="reference"><a href="#cite_note-BBC2010-54"><span>[</span>46<span>]</span></a></sup></td>
+</tr>
+<tr>
+<th scope="row" style="text-align:center"><a href="/wiki/2014_FIFA_World_Cup" title="2014 FIFA World Cup">2014</a></th>
+<td align="right"><a href="/wiki/Germany_national_football_team" title="Germany national football team">Germany</a><span class="flagicon">&#160;<img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></span></td>
+<td align="center" bgcolor="#FBCEB1"><span style="visibility:hidden;color:transparent;">&#160;&#160;</span><a href="/wiki/2014_FIFA_World_Cup_Final" title="2014 FIFA World Cup Final">1–0</a><sup><img alt="dagger" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" width="9" height="14" data-file-width="9" data-file-height="14" /></sup><br />
+<sup id="cite_ref-58" class="reference"><a href="#cite_note-58"><span>[</span>n 10<span>]</span></a></sup></td>
+<td align="left"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Argentina_national_football_team" title="Argentina national football team">Argentina</a></td>
+<td><a href="/wiki/Maracan%C3%A3_Stadium" title="Maracanã Stadium">Estádio do Maracanã</a></td>
+<td><span style="display:none;" class="sortkey">Brasil, Rio de Janeiro !</span><span class="sorttext"><a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a></span></td>
+<td align="center">74,738</td>
+<td align="center"><sup id="cite_ref-FIFA_2014_56-1" class="reference"><a href="#cite_note-FIFA_2014-56"><span>[</span>47<span>]</span></a></sup><sup id="cite_ref-BBC2014_57-1" class="reference"><a href="#cite_note-BBC2014-57"><span>[</span>48<span>]</span></a></sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Results_by_nation">Results by nation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=edit&amp;section=2" title="Edit section: Results by nation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a href="/wiki/File:World_cup_winners.png" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/World_cup_winners.png/300px-World_cup_winners.png" width="300" height="125" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/World_cup_winners.png/450px-World_cup_winners.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/World_cup_winners.png/600px-World_cup_winners.png 2x" data-file-width="1500" data-file-height="625" /></a>
+<div class="thumbcaption">
+<div class="magnify"><a href="/wiki/File:World_cup_winners.png" class="internal" title="Enlarge"></a></div>
+Map of winning countries</div>
+</div>
+</div>
+<table class="wikitable plainrowheaders sortable">
+<tr>
+<th scope="col">National team</th>
+<th scope="col">Wins</th>
+<th scope="col">Runners-up</th>
+<th scope="col">Total finals</th>
+<th scope="col" class="unsortable">Years won</th>
+<th scope="col" class="unsortable">Years runners-up</th>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a></th>
+<td align="center">5</td>
+<td align="center">2</td>
+<td align="center">7</td>
+<td><a href="/wiki/1958_FIFA_World_Cup" title="1958 FIFA World Cup">1958</a>, <a href="/wiki/1962_FIFA_World_Cup" title="1962 FIFA World Cup">1962</a>, <a href="/wiki/1970_FIFA_World_Cup" title="1970 FIFA World Cup">1970</a>, <a href="/wiki/1994_FIFA_World_Cup" title="1994 FIFA World Cup">1994</a>, <a href="/wiki/2002_FIFA_World_Cup" title="2002 FIFA World Cup">2002</a></td>
+<td><a href="/wiki/1950_FIFA_World_Cup" title="1950 FIFA World Cup">1950</a>, <a href="/wiki/1998_FIFA_World_Cup" title="1998 FIFA World Cup">1998</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany_national_football_team" title="Germany national football team">Germany</a></th>
+<td align="center">4</td>
+<td align="center">4</td>
+<td align="center">8</td>
+<td><a href="/wiki/1954_FIFA_World_Cup" title="1954 FIFA World Cup">1954</a>, <a href="/wiki/1974_FIFA_World_Cup" title="1974 FIFA World Cup">1974</a>, <a href="/wiki/1990_FIFA_World_Cup" title="1990 FIFA World Cup">1990</a>, <a href="/wiki/2014_FIFA_World_Cup" title="2014 FIFA World Cup">2014</a></td>
+<td><a href="/wiki/1966_FIFA_World_Cup" title="1966 FIFA World Cup">1966</a>, <a href="/wiki/1982_FIFA_World_Cup" title="1982 FIFA World Cup">1982</a>, <a href="/wiki/1986_FIFA_World_Cup" title="1986 FIFA World Cup">1986</a>, <a href="/wiki/2002_FIFA_World_Cup" title="2002 FIFA World Cup">2002</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy_national_football_team" title="Italy national football team">Italy</a></th>
+<td align="center">4</td>
+<td align="center">2</td>
+<td align="center">6</td>
+<td><a href="/wiki/1934_FIFA_World_Cup" title="1934 FIFA World Cup">1934</a>, <a href="/wiki/1938_FIFA_World_Cup" title="1938 FIFA World Cup">1938</a>, <a href="/wiki/1982_FIFA_World_Cup" title="1982 FIFA World Cup">1982</a>, <a href="/wiki/2006_FIFA_World_Cup" title="2006 FIFA World Cup">2006</a></td>
+<td><a href="/wiki/1970_FIFA_World_Cup" title="1970 FIFA World Cup">1970</a>, <a href="/wiki/1994_FIFA_World_Cup" title="1994 FIFA World Cup">1994</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Argentina_national_football_team" title="Argentina national football team">Argentina</a></th>
+<td align="center">2</td>
+<td align="center">3</td>
+<td align="center">5</td>
+<td><a href="/wiki/1978_FIFA_World_Cup" title="1978 FIFA World Cup">1978</a>, <a href="/wiki/1986_FIFA_World_Cup" title="1986 FIFA World Cup">1986</a></td>
+<td><a href="/wiki/1930_FIFA_World_Cup" title="1930 FIFA World Cup">1930</a>, <a href="/wiki/1990_FIFA_World_Cup" title="1990 FIFA World Cup">1990</a>, <a href="/wiki/2014_FIFA_World_Cup" title="2014 FIFA World Cup">2014</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Uruguay_national_football_team" title="Uruguay national football team">Uruguay</a></th>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="center">2</td>
+<td><a href="/wiki/1930_FIFA_World_Cup" title="1930 FIFA World Cup">1930</a>, <a href="/wiki/1950_FIFA_World_Cup" title="1950 FIFA World Cup">1950</a></td>
+<td>–</td>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/France_national_football_team" title="France national football team">France</a></th>
+<td align="center">1</td>
+<td align="center">1</td>
+<td align="center">2</td>
+<td><a href="/wiki/1998_FIFA_World_Cup" title="1998 FIFA World Cup">1998</a></td>
+<td><a href="/wiki/2006_FIFA_World_Cup" title="2006 FIFA World Cup">2006</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England_national_football_team" title="England national football team">England</a></th>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td><a href="/wiki/1966_FIFA_World_Cup" title="1966 FIFA World Cup">1966</a></td>
+<td>–</td>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain_national_football_team" title="Spain national football team">Spain</a></th>
+<td align="center">1</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td><a href="/wiki/2010_FIFA_World_Cup" title="2010 FIFA World Cup">2010</a></td>
+<td>–</td>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Netherlands_national_football_team" title="Netherlands national football team">Netherlands</a></th>
+<td align="center">0</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td>–</td>
+<td><a href="/wiki/1974_FIFA_World_Cup" title="1974 FIFA World Cup">1974</a>, <a href="/wiki/1978_FIFA_World_Cup" title="1978 FIFA World Cup">1978</a>, <a href="/wiki/2010_FIFA_World_Cup" title="2010 FIFA World Cup">2010</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Czechoslovakia_national_football_team" title="Czechoslovakia national football team">Czechoslovakia</a></th>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td>–</td>
+<td><a href="/wiki/1934_FIFA_World_Cup" title="1934 FIFA World Cup">1934</a>, <a href="/wiki/1962_FIFA_World_Cup" title="1962 FIFA World Cup">1962</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/23px-Flag_of_Hungary.svg.png" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/35px-Flag_of_Hungary.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/46px-Flag_of_Hungary.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="/wiki/Hungary_national_football_team" title="Hungary national football team">Hungary</a></th>
+<td align="center">0</td>
+<td align="center">2</td>
+<td align="center">2</td>
+<td>–</td>
+<td><a href="/wiki/1938_FIFA_World_Cup" title="1938 FIFA World Cup">1938</a>, <a href="/wiki/1954_FIFA_World_Cup" title="1954 FIFA World Cup">1954</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" />&#160;</span><a href="/wiki/Sweden_national_football_team" title="Sweden national football team">Sweden</a></th>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">1</td>
+<td>–</td>
+<td><a href="/wiki/1958_FIFA_World_Cup" title="1958 FIFA World Cup">1958</a></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Results_by_confederation">Results by confederation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=edit&amp;section=3" title="Edit section: Results by confederation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable plainrowheaders sortable">
+<tr>
+<th scope="col">Confederation</th>
+<th scope="col">Appearances</th>
+<th scope="col">Winners</th>
+<th scope="col">Runners-up</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/UEFA" title="UEFA">UEFA</a></th>
+<td align="center">26</td>
+<td align="center">11</td>
+<td align="center">15</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/CONMEBOL" title="CONMEBOL">CONMEBOL</a></th>
+<td align="center">14</td>
+<td align="center">9</td>
+<td align="center">5</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Footnotes">Footnotes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=edit&amp;section=4" title="Edit section: Footnotes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ol class="references">
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">This follows FIFA's consideration that the national teams of West Germany/Germany, Czechoslovakia/Czech Republic, Yugoslavia/Serbia and Montenegro/Serbia, and USSR/Russia are combined respectively for record-keeping.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4"><span>[</span>4<span>]</span></a></sup></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Technically the <a href="/wiki/1958_FIFA_World_Cup_Final" title="1958 FIFA World Cup Final">1958 final</a> was also between two first timers, but Brazil's 1950 group game defeat is generally counted as a previous "final" appearance for the team.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Score was 1–1 after 90 minutes.<sup id="cite_ref-FIFA_1934_13-0" class="reference"><a href="#cite_note-FIFA_1934-13"><span>[</span>11<span>]</span></a></sup><sup id="cite_ref-BBC1934_14-0" class="reference"><a href="#cite_note-BBC1934-14"><span>[</span>12<span>]</span></a></sup></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Not the final but the decisive match of the final group stage.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Score was 2–2 after 90 minutes.<sup id="cite_ref-FIFA_1966_27-0" class="reference"><a href="#cite_note-FIFA_1966-27"><span>[</span>23<span>]</span></a></sup><sup id="cite_ref-BBC1966_28-0" class="reference"><a href="#cite_note-BBC1966-28"><span>[</span>24<span>]</span></a></sup></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Score was 1–1 after 90 minutes.<sup id="cite_ref-FIFA_1978_34-0" class="reference"><a href="#cite_note-FIFA_1978-34"><span>[</span>29<span>]</span></a></sup><sup id="cite_ref-BBC1978_35-0" class="reference"><a href="#cite_note-BBC1978-35"><span>[</span>30<span>]</span></a></sup></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text">Score was 0–0 after 120 minutes. Brazil won 3–2 on penalties.<sup id="cite_ref-FIFA_1994_43-0" class="reference"><a href="#cite_note-FIFA_1994-43"><span>[</span>37<span>]</span></a></sup><sup id="cite_ref-BBC1994_44-0" class="reference"><a href="#cite_note-BBC1994-44"><span>[</span>38<span>]</span></a></sup></span></li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span> <span class="reference-text">Score was 1–1 after 120 minutes. Italy won 5–3 on penalties.<sup id="cite_ref-FIFA_2006_50-0" class="reference"><a href="#cite_note-FIFA_2006-50"><span>[</span>43<span>]</span></a></sup><sup id="cite_ref-BBC2006_51-0" class="reference"><a href="#cite_note-BBC2006-51"><span>[</span>44<span>]</span></a></sup></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text">Score was 0–0 after 90 minutes.<sup id="cite_ref-FIFA_2010_53-0" class="reference"><a href="#cite_note-FIFA_2010-53"><span>[</span>45<span>]</span></a></sup><sup id="cite_ref-BBC2010_54-0" class="reference"><a href="#cite_note-BBC2010-54"><span>[</span>46<span>]</span></a></sup></span></li>
+<li id="cite_note-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-58">^</a></b></span> <span class="reference-text">Score was 0–0 after 90 minutes.<sup id="cite_ref-FIFA_2014_56-0" class="reference"><a href="#cite_note-FIFA_2014-56"><span>[</span>47<span>]</span></a></sup><sup id="cite_ref-BBC2014_57-0" class="reference"><a href="#cite_note-BBC2014-57"><span>[</span>48<span>]</span></a></sup></span></li>
+</ol>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata mbox-small" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><img alt="Book icon" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Office-book.svg/30px-Office-book.svg.png" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Office-book.svg/45px-Office-book.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Office-book.svg/60px-Office-book.svg.png 2x" data-file-width="48" data-file-height="48" /></td>
+<td class="mbox-text plainlist">
+<ul style="font-weight: bold">
+<li><a href="/wiki/Book:FIFA_World_Cup" title="Book:FIFA World Cup">Book: FIFA World Cup</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<ul>
+<li><a href="/wiki/List_of_UEFA_European_Championship_finals" title="List of UEFA European Championship finals">List of UEFA European Championship finals</a></li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>General</b></p>
+<ul>
+<li><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.rsssf.com/tablesw/worldcup.html">"World Cup 1930–2014"</a>. Rec. Sport. Soccer Statistics Foundation (RSSSF). 17 July 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">24 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=World+Cup+1930%E2%80%932014&amp;rft.date=17+July+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.rsssf.com%2Ftablesw%2Fworldcup.html&amp;rft.pub=Rec.+Sport.+Soccer+Statistics+Foundation+%28RSSSF%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+<p><b>Specific</b></p>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.theguardian.com/football/2014/jul/13/germany-argentina-world-cup-final-2014-match-report">"Germany beat Argentina to win World Cup final with late Mario Gӧtze goal"</a>. <i>The Guardian</i>. 13 July 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">13 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=Germany+beat+Argentina+to+win+World+Cup+final+with+late+Mario+G%D3%A7tze+goal&amp;rft.date=13+July+2014&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.theguardian.com%2Ffootball%2F2014%2Fjul%2F13%2Fgermany-argentina-world-cup-final-2014-match-report&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/mm/document/affederation/federation/81/42/36/lotg_en.pdf">"Laws of the Game"</a> <span style="font-size:85%;">(PDF)</span>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">9 February</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=Laws+of+the+Game&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fmm%2Fdocument%2Faffederation%2Ffederation%2F81%2F42%2F36%2Flotg_en.pdf&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-All_results-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-All_results_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-All_results_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/mm/document/fifafacts/mcwc/ip-301_09a_wc-finals_alltime_8864.pdf">"FIFA World Cup Finals since 1930"</a> <span style="font-size:85%;">(PDF)</span>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">3 February</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=FIFA+World+Cup+Finals+since+1930&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fmm%2Fdocument%2Ffifafacts%2Fmcwc%2Fip-301_09a_wc-finals_alltime_8864.pdf&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/mm/document/fifafacts/mencompwc/01/18/03/18/fs-201_08a_fwc-alltimeranking.pdf">"All-time FIFA World Cup Ranking 1930-2010"</a> <span style="font-size:85%;">(PDF)</span>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">30 January</span> 2013</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=All-time+FIFA+World+Cup+Ranking+1930-2010&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fmm%2Fdocument%2Ffifafacts%2Fmencompwc%2F01%2F18%2F03%2F18%2Ffs-201_08a_fwc-alltimeranking.pdf&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://sportsillustrated.cnn.com/soccer/world/2002/world_cup/teams/brazil/">"World Cup Spotlight on Brazil"</a>. <a href="/wiki/CNN" title="CNN">CNN</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 January</span> 2007</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=World+Cup+Spotlight+on+Brazil&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fsportsillustrated.cnn.com%2Fsoccer%2Fworld%2F2002%2Fworld_cup%2Fteams%2Fbrazil%2F&amp;rft.pub=CNN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/index.html">"Previous FIFA World Cups"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">29 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=Previous+FIFA+World+Cups&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Findex.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-globo-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-globo_8-0">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://globotv.globo.com/rede-globo/jornal-da-globo/t/edicoes/v/taca-da-copa-do-mundo-chega-ao-brasil/3296190/">"Taça da Copa do Mundo chega ao Brasil (World Cup trophy arrives in Brazil)"</a>. Globo TV. 21 April 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">22 April</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=Ta%C3%A7a+da+Copa+do+Mundo+chega+ao+Brasil+%28World+Cup+trophy+arrives+in+Brazil%29&amp;rft.date=21+April+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fglobotv.globo.com%2Frede-globo%2Fjornal-da-globo%2Ft%2Fedicoes%2Fv%2Ftaca-da-copa-do-mundo-chega-ao-brasil%2F3296190%2F&amp;rft.pub=Globo+TV&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.telegraph.co.uk/sport/football/11174070/Russias-Luzhniki-Stadium-ahead-of-schedule-for-2018-World-Cup-Final.html">http://www.telegraph.co.uk/sport/football/11174070/Russias-Luzhniki-Stadium-ahead-of-schedule-for-2018-World-Cup-Final.html</a></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=1/results/matches/match=1087/report.html">"1930 FIFA World Cup Uruguay"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1930+FIFA+World+Cup+Uruguay&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D1%2Fresults%2Fmatches%2Fmatch%3D1087%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4330600.stm">"World Cup history – Uruguay 1930"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Uruguay+1930&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4330600.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FIFA_1934-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-FIFA_1934_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FIFA_1934_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=3/results/matches/match=1134/report.html">"1934 FIFA World Cup Italy"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1934+FIFA+World+Cup+Italy&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D3%2Fresults%2Fmatches%2Fmatch%3D1134%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BBC1934-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC1934_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC1934_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4331118.stm">"World Cup history – Italy 1934"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Italy+1934&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4331118.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=5/results/matches/match=1174/report.html">"1938 FIFA World Cup France"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1938+FIFA+World+Cup+France&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D5%2Fresults%2Fmatches%2Fmatch%3D1174%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4849022.stm">"World Cup history – France 1938"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+France+1938&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4849022.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=7/results/matches/match=1190/report.html">"1950 FIFA World Cup Brazil"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1950+FIFA+World+Cup+Brazil&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D7%2Fresults%2Fmatches%2Fmatch%3D1190%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4849084.stm">"World Cup history – Brazil 1950"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Brazil+1950&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4849084.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=9/results/matches/match=1278/report.html">"1954 FIFA World Cup Switzerland"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1954+FIFA+World+Cup+Switzerland&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D9%2Fresults%2Fmatches%2Fmatch%3D1278%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4849414.stm">"World Cup history – Switzerland 1954"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Switzerland+1954&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4849414.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=15/results/matches/match=1343/report.html">"1958 FIFA World Cup Sweden"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1958+FIFA+World+Cup+Sweden&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D15%2Fresults%2Fmatches%2Fmatch%3D1343%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4849640.stm">"World Cup history – Sweden 1958"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Sweden+1958&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4849640.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=21/results/matches/match=1463/report.html">"1962 FIFA World Cup Chile"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1962+FIFA+World+Cup+Chile&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D21%2Fresults%2Fmatches%2Fmatch%3D1463%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4849820.stm">"World Cup history – Chile 1962"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Chile+1962&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4849820.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FIFA_1966-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-FIFA_1966_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FIFA_1966_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=26/results/matches/match=1633/report.html">"1966 FIFA World Cup England"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1966+FIFA+World+Cup+England&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D26%2Fresults%2Fmatches%2Fmatch%3D1633%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BBC1966-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC1966_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC1966_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4850090.stm">"World Cup history – England 1966"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+England+1966&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4850090.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=32/results/matches/match=1765/report.html">"1970 FIFA World Cup Mexico"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1970+FIFA+World+Cup+Mexico&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D32%2Fresults%2Fmatches%2Fmatch%3D1765%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4850280.stm">"World Cup history – Mexico 1970"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Mexico+1970&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4850280.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=39/results/matches/match=2063/report.html">"1974 FIFA World Cup Germany"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1974+FIFA+World+Cup+Germany&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D39%2Fresults%2Fmatches%2Fmatch%3D2063%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4850426.stm">"World Cup history – West Germany 1974"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+West+Germany+1974&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4850426.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FIFA_1978-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-FIFA_1978_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FIFA_1978_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=50/results/matches/match=2198/report.html">"1978 FIFA World Cup Argentina"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1978+FIFA+World+Cup+Argentina&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D50%2Fresults%2Fmatches%2Fmatch%3D2198%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BBC1978-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC1978_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC1978_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4850710.stm">"World Cup history – Argentina 1978"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Argentina+1978&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4850710.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=59/results/matches/match=923/report.html">"1982 FIFA World Cup Spain"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1982+FIFA+World+Cup+Spain&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D59%2Fresults%2Fmatches%2Fmatch%3D923%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4850926.stm">"World Cup history – Spain 1982"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Spain+1982&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4850926.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=68/results/matches/match=393/report.html">"1986 FIFA World Cup Mexico"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1986+FIFA+World+Cup+Mexico&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D68%2Fresults%2Fmatches%2Fmatch%3D393%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4851052.stm">"World Cup history – Mexico 1986"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Mexico+1986&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4851052.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=76/results/matches/match=27/report.html">"1990 FIFA World Cup Italy"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1990+FIFA+World+Cup+Italy&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D76%2Fresults%2Fmatches%2Fmatch%3D27%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4851148.stm">"World Cup history – Italy 1990"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Italy+1990&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4851148.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FIFA_1994-43"><span class="mw-cite-backlink">^ <a href="#cite_ref-FIFA_1994_43-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FIFA_1994_43-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=84/results/matches/match=3104/report.html">"1994 FIFA World Cup USA"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1994+FIFA+World+Cup+USA&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D84%2Fresults%2Fmatches%2Fmatch%3D3104%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BBC1994-44"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC1994_44-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC1994_44-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4851230.stm">"World Cup history – USA 1994"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+USA+1994&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4851230.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=1013/results/matches/match=8788/report.html">"1998 FIFA World Cup France"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=1998+FIFA+World+Cup+France&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D1013%2Fresults%2Fmatches%2Fmatch%3D8788%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/4851296.stm">"World Cup history – France 1998"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+France+1998&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2F4851296.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-48"><span class="mw-cite-backlink"><b><a href="#cite_ref-48">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/edition=4395/results/matches/match=43950064/report.html">"2002 FIFA World Cup Korea/Japan"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=2002+FIFA+World+Cup+Korea%2FJapan&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fedition%3D4395%2Fresults%2Fmatches%2Fmatch%3D43950064%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-49"><span class="mw-cite-backlink"><b><a href="#cite_ref-49">^</a></b></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4852070.stm">"World Cup history – Japan &amp; South Korea 2002"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=World+Cup+history+%E2%80%93+Japan+%26+South+Korea+2002&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4852070.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FIFA_2006-50"><span class="mw-cite-backlink">^ <a href="#cite_ref-FIFA_2006_50-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FIFA_2006_50-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/germany2006/results/matches/match=97410064/report.html">"2006 FIFA World Cup Germany"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=2006+FIFA+World+Cup+Germany&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fgermany2006%2Fresults%2Fmatches%2Fmatch%3D97410064%2Freport.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BBC2006-51"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC2006_51-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC2006_51-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/4991652.stm">"Zidane off as Italy win World Cup"</a>. BBC Sport (British Broadcasting Corporation). 4 May 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">26 January</span> 2009</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=Zidane+off+as+Italy+win+World+Cup&amp;rft.date=4+May+2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport1%2Fhi%2Ffootball%2Fworld_cup_2006%2F4991652.stm&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FIFA_2010-53"><span class="mw-cite-backlink">^ <a href="#cite_ref-FIFA_2010_53-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FIFA_2010_53-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/archive/southafrica2010/matches/round=249721/match=300061509/index.html">"2010 FIFA World Cup South Africa"</a>. FIFA.com (Fédération Internationale de Football Association)<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=2010+FIFA+World+Cup+South+Africa&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Farchive%2Fsouthafrica2010%2Fmatches%2Fround%3D249721%2Fmatch%3D300061509%2Findex.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BBC2010-54"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC2010_54-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC2010_54-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/sport2/hi/football/world_cup_2010/matches/match_64">"Netherlands 0–1 Spain (aet)"</a>. BBC Sport (British Broadcasting Corporation)<span class="reference-accessdate">. Retrieved <span class="nowrap">12 May</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=Netherlands+0%E2%80%931+Spain+%28aet%29&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fnews.bbc.co.uk%2Fsport2%2Fhi%2Ffootball%2Fworld_cup_2010%2Fmatches%2Fmatch_64&amp;rft.pub=BBC+Sport+%28British+Broadcasting+Corporation%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-FIFA_2014-56"><span class="mw-cite-backlink">^ <a href="#cite_ref-FIFA_2014_56-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FIFA_2014_56-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/destination/stadiums/stadium=214/index.html">"Estadio Do Maracana, Rio de Janeiro"</a>. FIFA.com (Fédération Internationale de Football Association). 18 January 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">4 June</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.btitle=Estadio+Do+Maracana%2C+Rio+de+Janeiro&amp;rft.date=18+January+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.fifa.com%2Fworldcup%2Fdestination%2Fstadiums%2Fstadium%3D214%2Findex.html&amp;rft.pub=FIFA.com+%28F%C3%A9d%C3%A9ration+Internationale+de+Football+Association%29&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-BBC2014-57"><span class="mw-cite-backlink">^ <a href="#cite_ref-BBC2014_57-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BBC2014_57-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">McNulty, Phil (13 July 2014). <a rel="nofollow" class="external text" href="http://www.bbc.co.uk/sport/0/football/28181689">"Germany 1–0 Argentina"</a>. <i>BBC Sport</i> (British Broadcasting Corporation)<span class="reference-accessdate">. Retrieved <span class="nowrap">19 July</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AList+of+FIFA+World+Cup+finals&amp;rft.atitle=Germany+1%E2%80%930+Argentina&amp;rft.aufirst=Phil&amp;rft.aulast=McNulty&amp;rft.date=13+July+2014&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fsport%2F0%2Ffootball%2F28181689&amp;rft.jtitle=BBC+Sport&amp;rft.pub=British+Broadcasting+Corporation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a rel="nofollow" class="external text" href="http://www.fifa.com/worldcup/index.html">Official website</a></li>
+</ul>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background:gold;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:FIFA_World_Cup_winners" title="Template:FIFA World Cup winners"><abbr title="View this template" style=";background:gold;;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:FIFA_World_Cup_winners" title="Template talk:FIFA World Cup winners"><abbr title="Discuss this template" style=";background:gold;;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:FIFA_World_Cup_winners&amp;action=edit"><abbr title="Edit this template" style=";background:gold;;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/FIFA_World_Cup" title="FIFA World Cup">FIFA World Cup</a> <strong class="selflink">winners</strong></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><b><a href="/wiki/1930_FIFA_World_Cup" title="1930 FIFA World Cup">1930</a>:</b> <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/Uruguay_national_football_team" title="Uruguay national football team">Uruguay</a></li>
+<li><b><a href="/wiki/1934_FIFA_World_Cup" title="1934 FIFA World Cup">1934</a>:</b> <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/23px-Flag_of_Italy_%281861-1946%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/35px-Flag_of_Italy_%281861-1946%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/45px-Flag_of_Italy_%281861-1946%29.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="/wiki/Italy_national_football_team" title="Italy national football team">Italy</a></li>
+<li><b><a href="/wiki/1938_FIFA_World_Cup" title="1938 FIFA World Cup">1938</a>:</b> <span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/23px-Flag_of_Italy_%281861-1946%29.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/35px-Flag_of_Italy_%281861-1946%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Flag_of_Italy_%281861-1946%29.svg/45px-Flag_of_Italy_%281861-1946%29.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> Italy</li>
+<li><b><a href="/wiki/1950_FIFA_World_Cup" title="1950 FIFA World Cup">1950</a>:</b> <span class="flagicon"><a href="/wiki/Uruguay" title="Uruguay"><img alt="Uruguay" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/35px-Flag_of_Uruguay.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/45px-Flag_of_Uruguay.svg.png 2x" data-file-width="900" data-file-height="600" /></a></span> Uruguay</li>
+<li><b><a href="/wiki/1954_FIFA_World_Cup" title="1954 FIFA World Cup">1954</a>:</b> <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="/wiki/Germany_national_football_team" title="Germany national football team">West Germany</a></li>
+<li><b><a href="/wiki/1958_FIFA_World_Cup" title="1958 FIFA World Cup">1958</a>:</b> <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_Brazil_%281889-1960%29.svg/22px-Flag_of_Brazil_%281889-1960%29.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_Brazil_%281889-1960%29.svg/33px-Flag_of_Brazil_%281889-1960%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Flag_of_Brazil_%281889-1960%29.svg/43px-Flag_of_Brazil_%281889-1960%29.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="/wiki/Brazil_national_football_team" title="Brazil national football team">Brazil</a></li>
+<li><b><a href="/wiki/1962_FIFA_World_Cup" title="1962 FIFA World Cup">1962</a>:</b> <span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Brazil_%281960-1968%29.svg/22px-Flag_of_Brazil_%281960-1968%29.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Brazil_%281960-1968%29.svg/33px-Flag_of_Brazil_%281960-1968%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Brazil_%281960-1968%29.svg/43px-Flag_of_Brazil_%281960-1968%29.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> Brazil</li>
+<li><b><a href="/wiki/1966_FIFA_World_Cup" title="1966 FIFA World Cup">1966</a>:</b> <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/35px-Flag_of_England.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/46px-Flag_of_England.svg.png 2x" data-file-width="800" data-file-height="480" />&#160;</span><a href="/wiki/England_national_football_team" title="England national football team">England</a></li>
+<li><b><a href="/wiki/1970_FIFA_World_Cup" title="1970 FIFA World Cup">1970</a>:</b> <span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Brazil_%281968-1992%29.svg/22px-Flag_of_Brazil_%281968-1992%29.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Brazil_%281968-1992%29.svg/33px-Flag_of_Brazil_%281968-1992%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Brazil_%281968-1992%29.svg/43px-Flag_of_Brazil_%281968-1992%29.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> Brazil</li>
+<li><b><a href="/wiki/1974_FIFA_World_Cup" title="1974 FIFA World Cup">1974</a>:</b> <span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> West Germany</li>
+<li><b><a href="/wiki/1978_FIFA_World_Cup" title="1978 FIFA World Cup">1978</a>:</b> <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" />&#160;</span><a href="/wiki/Argentina_national_football_team" title="Argentina national football team">Argentina</a></li>
+<li><b><a href="/wiki/1982_FIFA_World_Cup" title="1982 FIFA World Cup">1982</a>:</b> <span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> Italy</li>
+<li><b><a href="/wiki/1986_FIFA_World_Cup" title="1986 FIFA World Cup">1986</a>:</b> <span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/35px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/46px-Flag_of_Argentina.svg.png 2x" data-file-width="800" data-file-height="500" /></a></span> Argentina</li>
+<li><b><a href="/wiki/1990_FIFA_World_Cup" title="1990 FIFA World Cup">1990</a>:</b> <span class="flagicon"><a href="/wiki/West_Germany" title="West Germany"><img alt="West Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> West Germany</li>
+<li><b><a href="/wiki/1994_FIFA_World_Cup" title="1994 FIFA World Cup">1994</a>:</b> <span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> Brazil</li>
+<li><b><a href="/wiki/1998_FIFA_World_Cup" title="1998 FIFA World Cup">1998</a>:</b> <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="/wiki/France_national_football_team" title="France national football team">France</a></li>
+<li><b><a href="/wiki/2002_FIFA_World_Cup" title="2002 FIFA World Cup">2002</a>:</b> <span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" /></a></span> Brazil</li>
+<li><b><a href="/wiki/2006_FIFA_World_Cup" title="2006 FIFA World Cup">2006</a>:</b> <span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" /></a></span> Italy</li>
+<li><b><a href="/wiki/2010_FIFA_World_Cup" title="2010 FIFA World Cup">2010</a>:</b> <span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="/wiki/Spain_national_football_team" title="Spain national football team">Spain</a></li>
+<li><b><a href="/wiki/2014_FIFA_World_Cup" title="2014 FIFA World Cup">2014</a>:</b> <span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" /></a></span> Germany</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class="navbox" style="border-spacing:0">
+<tr>
+<td style="padding:2px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:FIFA_World_Cup" title="Template:FIFA World Cup"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:FIFA_World_Cup" title="Template talk:FIFA World Cup"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:FIFA_World_Cup&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%"><a href="/wiki/FIFA_World_Cup" title="FIFA World Cup">FIFA World Cup</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Tournaments</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1930_FIFA_World_Cup" title="1930 FIFA World Cup">Uruguay 1930</a></li>
+<li><a href="/wiki/1934_FIFA_World_Cup" title="1934 FIFA World Cup">Italy 1934</a></li>
+<li><a href="/wiki/1938_FIFA_World_Cup" title="1938 FIFA World Cup">France 1938</a></li>
+<li><a href="/wiki/1950_FIFA_World_Cup" title="1950 FIFA World Cup">Brazil 1950</a></li>
+<li><a href="/wiki/1954_FIFA_World_Cup" title="1954 FIFA World Cup">Switzerland 1954</a></li>
+<li><a href="/wiki/1958_FIFA_World_Cup" title="1958 FIFA World Cup">Sweden 1958</a></li>
+<li><a href="/wiki/1962_FIFA_World_Cup" title="1962 FIFA World Cup">Chile 1962</a></li>
+<li><a href="/wiki/1966_FIFA_World_Cup" title="1966 FIFA World Cup">England 1966</a></li>
+<li><a href="/wiki/1970_FIFA_World_Cup" title="1970 FIFA World Cup">Mexico 1970</a></li>
+<li><a href="/wiki/1974_FIFA_World_Cup" title="1974 FIFA World Cup">West Germany 1974</a></li>
+<li><a href="/wiki/1978_FIFA_World_Cup" title="1978 FIFA World Cup">Argentina 1978</a></li>
+<li><a href="/wiki/1982_FIFA_World_Cup" title="1982 FIFA World Cup">Spain 1982</a></li>
+<li><a href="/wiki/1986_FIFA_World_Cup" title="1986 FIFA World Cup">Mexico 1986</a></li>
+<li><a href="/wiki/1990_FIFA_World_Cup" title="1990 FIFA World Cup">Italy 1990</a></li>
+<li><a href="/wiki/1994_FIFA_World_Cup" title="1994 FIFA World Cup">United States 1994</a></li>
+<li><a href="/wiki/1998_FIFA_World_Cup" title="1998 FIFA World Cup">France 1998</a></li>
+<li><a href="/wiki/2002_FIFA_World_Cup" title="2002 FIFA World Cup">South Korea/Japan 2002</a></li>
+<li><a href="/wiki/2006_FIFA_World_Cup" title="2006 FIFA World Cup">Germany 2006</a></li>
+<li><a href="/wiki/2010_FIFA_World_Cup" title="2010 FIFA World Cup">South Africa 2010</a></li>
+<li><a href="/wiki/2014_FIFA_World_Cup" title="2014 FIFA World Cup">Brazil 2014</a></li>
+<li><i><a href="/wiki/2018_FIFA_World_Cup" title="2018 FIFA World Cup">Russia 2018</a></i></li>
+<li><i><a href="/wiki/2022_FIFA_World_Cup" title="2022 FIFA World Cup">Qatar 2022</a></i></li>
+<li><i><a href="/wiki/2026_FIFA_World_Cup" title="2026 FIFA World Cup">2026</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><strong class="selflink">Finals</strong></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1930_FIFA_World_Cup_Final" title="1930 FIFA World Cup Final">1930</a></li>
+<li><a href="/wiki/1934_FIFA_World_Cup_Final" title="1934 FIFA World Cup Final">1934</a></li>
+<li><a href="/wiki/1938_FIFA_World_Cup_Final" title="1938 FIFA World Cup Final">1938</a></li>
+<li><i><a href="/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)" title="Uruguay v Brazil (1950 FIFA World Cup)">1950</a></i></li>
+<li><a href="/wiki/1954_FIFA_World_Cup_Final" title="1954 FIFA World Cup Final">1954</a></li>
+<li><a href="/wiki/1958_FIFA_World_Cup_Final" title="1958 FIFA World Cup Final">1958</a></li>
+<li><a href="/wiki/1962_FIFA_World_Cup_Final" title="1962 FIFA World Cup Final">1962</a></li>
+<li><a href="/wiki/1966_FIFA_World_Cup_Final" title="1966 FIFA World Cup Final">1966</a></li>
+<li><a href="/wiki/1970_FIFA_World_Cup_Final" title="1970 FIFA World Cup Final">1970</a></li>
+<li><a href="/wiki/1974_FIFA_World_Cup_Final" title="1974 FIFA World Cup Final">1974</a></li>
+<li><a href="/wiki/1978_FIFA_World_Cup_Final" title="1978 FIFA World Cup Final">1978</a></li>
+<li><a href="/wiki/1982_FIFA_World_Cup_Final" title="1982 FIFA World Cup Final">1982</a></li>
+<li><a href="/wiki/1986_FIFA_World_Cup_Final" title="1986 FIFA World Cup Final">1986</a></li>
+<li><a href="/wiki/1990_FIFA_World_Cup_Final" title="1990 FIFA World Cup Final">1990</a></li>
+<li><a href="/wiki/1994_FIFA_World_Cup_Final" title="1994 FIFA World Cup Final">1994</a></li>
+<li><a href="/wiki/1998_FIFA_World_Cup_Final" title="1998 FIFA World Cup Final">1998</a></li>
+<li><a href="/wiki/2002_FIFA_World_Cup_Final" title="2002 FIFA World Cup Final">2002</a></li>
+<li><a href="/wiki/2006_FIFA_World_Cup_Final" title="2006 FIFA World Cup Final">2006</a></li>
+<li><a href="/wiki/2010_FIFA_World_Cup_Final" title="2010 FIFA World Cup Final">2010</a></li>
+<li><a href="/wiki/2014_FIFA_World_Cup_Final" title="2014 FIFA World Cup Final">2014</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/FIFA_World_Cup_qualification" title="FIFA World Cup qualification">Qualification</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><span style="color:grey">1930</span></i></li>
+<li><a href="/wiki/1934_FIFA_World_Cup_qualification" title="1934 FIFA World Cup qualification">1934</a></li>
+<li><a href="/wiki/1938_FIFA_World_Cup_qualification" title="1938 FIFA World Cup qualification">1938</a></li>
+<li><a href="/wiki/1950_FIFA_World_Cup_qualification" title="1950 FIFA World Cup qualification">1950</a></li>
+<li><a href="/wiki/1954_FIFA_World_Cup_qualification" title="1954 FIFA World Cup qualification">1954</a></li>
+<li><a href="/wiki/1958_FIFA_World_Cup_qualification" title="1958 FIFA World Cup qualification">1958</a></li>
+<li><a href="/wiki/1962_FIFA_World_Cup_qualification" title="1962 FIFA World Cup qualification">1962</a></li>
+<li><a href="/wiki/1966_FIFA_World_Cup_qualification" title="1966 FIFA World Cup qualification">1966</a></li>
+<li><a href="/wiki/1970_FIFA_World_Cup_qualification" title="1970 FIFA World Cup qualification">1970</a></li>
+<li><a href="/wiki/1974_FIFA_World_Cup_qualification" title="1974 FIFA World Cup qualification">1974</a></li>
+<li><a href="/wiki/1978_FIFA_World_Cup_qualification" title="1978 FIFA World Cup qualification">1978</a></li>
+<li><a href="/wiki/1982_FIFA_World_Cup_qualification" title="1982 FIFA World Cup qualification">1982</a></li>
+<li><a href="/wiki/1986_FIFA_World_Cup_qualification" title="1986 FIFA World Cup qualification">1986</a></li>
+<li><a href="/wiki/1990_FIFA_World_Cup_qualification" title="1990 FIFA World Cup qualification">1990</a></li>
+<li><a href="/wiki/1994_FIFA_World_Cup_qualification" title="1994 FIFA World Cup qualification">1994</a></li>
+<li><a href="/wiki/1998_FIFA_World_Cup_qualification" title="1998 FIFA World Cup qualification">1998</a></li>
+<li><a href="/wiki/2002_FIFA_World_Cup_qualification" title="2002 FIFA World Cup qualification">2002</a></li>
+<li><a href="/wiki/2006_FIFA_World_Cup_qualification" title="2006 FIFA World Cup qualification">2006</a></li>
+<li><a href="/wiki/2010_FIFA_World_Cup_qualification" title="2010 FIFA World Cup qualification">2010</a></li>
+<li><a href="/wiki/2014_FIFA_World_Cup_qualification" title="2014 FIFA World Cup qualification">2014</a></li>
+<li><b><a href="/wiki/2018_FIFA_World_Cup_qualification" title="2018 FIFA World Cup qualification">2018</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Squads</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1930_FIFA_World_Cup_squads" title="1930 FIFA World Cup squads">1930</a></li>
+<li><a href="/wiki/1934_FIFA_World_Cup_squads" title="1934 FIFA World Cup squads">1934</a></li>
+<li><a href="/wiki/1938_FIFA_World_Cup_squads" title="1938 FIFA World Cup squads">1938</a></li>
+<li><a href="/wiki/1950_FIFA_World_Cup_squads" title="1950 FIFA World Cup squads">1950</a></li>
+<li><a href="/wiki/1954_FIFA_World_Cup_squads" title="1954 FIFA World Cup squads">1954</a></li>
+<li><a href="/wiki/1958_FIFA_World_Cup_squads" title="1958 FIFA World Cup squads">1958</a></li>
+<li><a href="/wiki/1962_FIFA_World_Cup_squads" title="1962 FIFA World Cup squads">1962</a></li>
+<li><a href="/wiki/1966_FIFA_World_Cup_squads" title="1966 FIFA World Cup squads">1966</a></li>
+<li><a href="/wiki/1970_FIFA_World_Cup_squads" title="1970 FIFA World Cup squads">1970</a></li>
+<li><a href="/wiki/1974_FIFA_World_Cup_squads" title="1974 FIFA World Cup squads">1974</a></li>
+<li><a href="/wiki/1978_FIFA_World_Cup_squads" title="1978 FIFA World Cup squads">1978</a></li>
+<li><a href="/wiki/1982_FIFA_World_Cup_squads" title="1982 FIFA World Cup squads">1982</a></li>
+<li><a href="/wiki/1986_FIFA_World_Cup_squads" title="1986 FIFA World Cup squads">1986</a></li>
+<li><a href="/wiki/1990_FIFA_World_Cup_squads" title="1990 FIFA World Cup squads">1990</a></li>
+<li><a href="/wiki/1994_FIFA_World_Cup_squads" title="1994 FIFA World Cup squads">1994</a></li>
+<li><a href="/wiki/1998_FIFA_World_Cup_squads" title="1998 FIFA World Cup squads">1998</a></li>
+<li><a href="/wiki/2002_FIFA_World_Cup_squads" title="2002 FIFA World Cup squads">2002</a></li>
+<li><a href="/wiki/2006_FIFA_World_Cup_squads" title="2006 FIFA World Cup squads">2006</a></li>
+<li><a href="/wiki/2010_FIFA_World_Cup_squads" title="2010 FIFA World Cup squads">2010</a></li>
+<li><a href="/wiki/2014_FIFA_World_Cup_squads" title="2014 FIFA World Cup squads">2014</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Seedings</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1998_FIFA_World_Cup_seeding" title="1998 FIFA World Cup seeding">1998</a></li>
+<li><a href="/wiki/2002_FIFA_World_Cup_seeding" title="2002 FIFA World Cup seeding">2002</a></li>
+<li><a href="/wiki/2006_FIFA_World_Cup_seeding" title="2006 FIFA World Cup seeding">2006</a></li>
+<li><a href="/wiki/2010_FIFA_World_Cup_seeding" title="2010 FIFA World Cup seeding">2010</a></li>
+<li><a href="/wiki/2014_FIFA_World_Cup_seeding" title="2014 FIFA World Cup seeding">2014</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/List_of_FIFA_World_Cup_broadcasters" title="List of FIFA World Cup broadcasters">Broadcasters</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/1998_FIFA_World_Cup_broadcasting_rights" title="1998 FIFA World Cup broadcasting rights">1998</a></li>
+<li><a href="/wiki/2002_FIFA_World_Cup_broadcasting_rights" title="2002 FIFA World Cup broadcasting rights">2002</a></li>
+<li><a href="/wiki/2006_FIFA_World_Cup_broadcasting_rights" title="2006 FIFA World Cup broadcasting rights">2006</a></li>
+<li><a href="/wiki/2010_FIFA_World_Cup_broadcasting_rights" title="2010 FIFA World Cup broadcasting rights">2010</a></li>
+<li><a href="/wiki/2014_FIFA_World_Cup_broadcasting_rights" title="2014 FIFA World Cup broadcasting rights">2014</a></li>
+<li><i><a href="/wiki/2018_FIFA_World_Cup_broadcasting_rights" title="2018 FIFA World Cup broadcasting rights">2018</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group"><a href="/wiki/FIFA_World_Cup_hosts" title="FIFA World Cup hosts">Bids</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/2014_FIFA_World_Cup_bids" title="2014 FIFA World Cup bids">2014</a></li>
+<li><a href="/wiki/2018_and_2022_FIFA_World_Cup_bids" title="2018 and 2022 FIFA World Cup bids">2018 and 2022</a></li>
+<li><i><a href="/wiki/2026_FIFA_World_Cup_bids" title="2026 FIFA World Cup bids" class="mw-redirect">2026</a></i></li>
+<li><i><a href="/wiki/2030_FIFA_World_Cup_bids" title="2030 FIFA World Cup bids" class="mw-redirect">2030</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Statistics</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/All-time_table_of_the_FIFA_World_Cup" title="All-time table of the FIFA World Cup">All-time table</a></li>
+<li><a href="/wiki/List_of_FIFA_World_Cup_goalscorers" title="List of FIFA World Cup goalscorers">Goalscorers</a>
+<ul>
+<li><a href="/wiki/FIFA_World_Cup_top_goalscorers" title="FIFA World Cup top goalscorers">top goalscorers</a></li>
+<li><a href="/wiki/List_of_FIFA_World_Cup_finals_goalscorers" title="List of FIFA World Cup finals goalscorers">finals goalscorers</a></li>
+<li><a href="/wiki/List_of_FIFA_World_Cup_hat-tricks" title="List of FIFA World Cup hat-tricks">hat-tricks</a></li>
+<li><a href="/wiki/List_of_FIFA_World_Cup_own_goals" title="List of FIFA World Cup own goals">own goals</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_FIFA_World_Cup_penalty_shoot-outs" title="List of FIFA World Cup penalty shoot-outs">Penalty shoot-outs</a></li>
+<li><a href="/wiki/List_of_players_who_have_appeared_in_multiple_FIFA_World_Cups" title="List of players who have appeared in multiple FIFA World Cups">Player appearances</a></li>
+<li><a href="/wiki/List_of_FIFA_World_Cup_records" title="List of FIFA World Cup records">Records</a></li>
+<li><a href="/wiki/List_of_FIFA_World_Cup_red_cards" title="List of FIFA World Cup red cards">Red cards</a></li>
+<li><a href="/wiki/FIFA_World_Cup_referees" title="FIFA World Cup referees">Referees</a></li>
+<li><a href="/wiki/National_team_appearances_in_the_FIFA_World_Cup" title="National team appearances in the FIFA World Cup">Team appearances</a></li>
+<li><a href="/wiki/List_of_national_teams_with_no_FIFA_World_Cup_appearances" title="List of national teams with no FIFA World Cup appearances">Teams with no appearances</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Miscellaneous</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/FIFA_World_Cup_awards" title="FIFA World Cup awards">Awards</a></li>
+<li><a href="/wiki/Ball_(association_football)#FIFA_World_Cup" title="Ball (association football)">Balls</a></li>
+<li><a href="/wiki/Economics_of_the_FIFA_World_Cup" title="Economics of the FIFA World Cup">Economics</a></li>
+<li><a href="/wiki/History_of_the_FIFA_World_Cup" title="History of the FIFA World Cup">History</a></li>
+<li><a href="/wiki/FIFA_World_Cup_hosts" title="FIFA World Cup hosts">Hosts</a></li>
+<li><a href="/wiki/FIFA_World_Cup_mascot" title="FIFA World Cup mascot">Mascots</a></li>
+<li><a href="/wiki/List_of_official_FIFA_World_Cup_films" title="List of official FIFA World Cup films">Official films</a></li>
+<li><a href="/wiki/FIFA_World_Cup_official_songs" title="FIFA World Cup official songs">Official songs</a></li>
+<li><a href="/wiki/FIFA_World_Cup_Trophy" title="FIFA World Cup Trophy">Trophy</a></li>
+<li><a href="/wiki/FIFA_World_Cup_video_games" title="FIFA World Cup video games">Video games</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>Notes: There was no qualification for the 1930 World Cup as places were given by invitation only. In 1950, there was no final; the article is about the decisive match of the final group stage.</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1210
+Cached time: 20151125154313
+Cache expiry: 2592000
+Dynamic content: false
+CPU time usage: 0.787 seconds
+Real time usage: 0.929 seconds
+Preprocessor visited node count: 9429/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 155842/2097152 bytes
+Template argument size: 10893/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.192/10.000 seconds
+Lua memory usage: 3.5 MB/50 MB
+Number of Wikibase entities loaded: 0-->
+
+<!-- 
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  692.470      1 - -total
+ 33.62%  232.795      1 - Template:Reflist
+ 16.55%  114.577     27 - Template:Cite_web
+ 14.04%   97.224     42 - Template:Fb
+ 10.07%   69.741     21 - Template:Cite_news
+  7.83%   54.193     20 - Template:Fb-rt
+  6.47%   44.789      1 - Template:Infobox_football_tournament
+  6.04%   41.838      2 - Template:Navbox
+  6.04%   41.795      1 - Template:Infobox
+  4.97%   34.427      1 - Template:FIFA_World_Cup_winners
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8821389-0!*!0!!en!4!* and timestamp 20151125154312 and revision id 684635667
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;oldid=684635667">https://en.wikipedia.org/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;oldid=684635667</a>"					</div>
+				<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:FIFA_World_Cup_finals" title="Category:FIFA World Cup finals">FIFA World Cup finals</a></li><li><a href="/wiki/Category:FIFA_World_Cup-related_lists" title="Category:FIFA World Cup-related lists">FIFA World Cup-related lists</a></li><li><a href="/wiki/Category:FIFA_World_Cup-winning_countries" title="Category:FIFA World Cup-winning countries">FIFA World Cup-winning countries</a></li><li><a href="/wiki/Category:Lists_of_FIFA_World_Cup_matches" title="Category:Lists of FIFA World Cup matches">Lists of FIFA World Cup matches</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_November_2012" title="Category:Use dmy dates from November 2012">Use dmy dates from November 2012</a></li><li><a href="/wiki/Category:Featured_lists" title="Category:Featured lists">Featured lists</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+FIFA+World+Cup+finals&amp;type=signup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=List+of+FIFA+World+Cup+finals" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/List_of_FIFA_World_Cup_finals"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:List_of_FIFA_World_Cup_finals"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/List_of_FIFA_World_Cup_finals" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton" />							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/List_of_FIFA_World_Cup_finals" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/List_of_FIFA_World_Cup_finals" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;oldid=684635667" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q2899571" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=List_of_FIFA_World_Cup_finals&amp;id=684635667" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=List+of+FIFA+World+Cup+finals">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=List+of+FIFA+World+Cup+finals&amp;returnto=List+of+FIFA+World+Cup+finals&amp;oldid=684635667&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar badge-Q17506997 badge-featuredlist" title="featured list"><a href="//ar.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%D8%A9_%D8%A7%D9%84%D9%81%D8%A7%D8%A6%D8%B2%D9%8A%D9%86_%D8%A8%D9%83%D8%A3%D8%B3_%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85_%D9%84%D9%83%D8%B1%D8%A9_%D8%A7%D9%84%D9%82%D8%AF%D9%85" title="قائمة الفائزين بكأس العالم لكرة القدم – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-bn"><a href="//bn.wikipedia.org/wiki/%E0%A6%AB%E0%A6%BF%E0%A6%AB%E0%A6%BE_%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A7%8D%E0%A6%AC%E0%A6%95%E0%A6%BE%E0%A6%AA_%E0%A6%AB%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE" title="ফিফা বিশ্বকাপ ফাইনালের তালিকা – Bengali" lang="bn" hreflang="bn">বাংলা</a></li><li class="interlanguage-link interwiki-el badge-Q17437796 badge-featuredarticle" title="featured article"><a href="//el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CF%84%CE%B5%CE%BB%CE%B9%CE%BA%CF%8E%CE%BD_%CE%A0%CE%B1%CE%B3%CE%BA%CE%BF%CF%83%CE%BC%CE%AF%CE%BF%CF%85_%CE%9A%CF%85%CF%80%CE%AD%CE%BB%CE%BB%CE%BF%CF%85_%CE%A0%CE%BF%CE%B4%CE%BF%CF%83%CF%86%CE%B1%CE%AF%CF%81%CE%BF%CF%85" title="Κατάλογος τελικών Παγκοσμίου Κυπέλλου Ποδοσφαίρου – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Anexo:Finales_de_la_Copa_Mundial_de_F%C3%BAtbol" title="Anexo:Finales de la Copa Mundial de Fútbol – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-fa badge-Q17506997 badge-featuredlist" title="featured list"><a href="//fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D9%81%DB%8C%D9%86%D8%A7%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%AC%D8%A7%D9%85_%D8%AC%D9%87%D8%A7%D9%86%DB%8C_%D9%81%D9%88%D8%AA%D8%A8%D8%A7%D9%84" title="فهرست فینال‌های جام جهانی فوتبال – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="//fr.wikipedia.org/wiki/Finale_de_la_Coupe_du_monde_de_football" title="Finale de la Coupe du monde de football – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="//ko.wikipedia.org/wiki/FIFA_%EC%9B%94%EB%93%9C%EC%BB%B5_%EA%B2%B0%EC%8A%B9%EC%A0%84_%EB%AA%A9%EB%A1%9D" title="FIFA 월드컵 결승전 목록 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-id badge-Q17506997 badge-featuredlist" title="featured list"><a href="//id.wikipedia.org/wiki/Daftar_final_Piala_Dunia_FIFA" title="Daftar final Piala Dunia FIFA – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-pt badge-Q17506997 badge-featuredlist" title="featured list"><a href="//pt.wikipedia.org/wiki/Lista_de_finais_da_Copa_do_Mundo_FIFA" title="Lista de finais da Copa do Mundo FIFA – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro badge-Q17506997 badge-featuredlist" title="featured list"><a href="//ro.wikipedia.org/wiki/Lista_finalelor_Campionatului_Mondial_de_Fotbal" title="Lista finalelor Campionatului Mondial de Fotbal – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="//ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB%D0%BE%D0%B2_%D1%87%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82%D0%BE%D0%B2_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Список финалов чемпионатов мира по футболу – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-fi badge-Q17559452 badge-recommendedarticle" title="recommended article"><a href="//fi.wikipedia.org/wiki/Luettelo_jalkapallon_maailmanmestaruuskilpailujen_loppuotteluista" title="Luettelo jalkapallon maailmanmestaruuskilpailujen loppuotteluista – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-tr badge-Q17506997 badge-featuredlist" title="featured list"><a href="//tr.wikipedia.org/wiki/FIFA_D%C3%BCnya_Kupas%C4%B1_finalleri_listesi" title="FIFA Dünya Kupası finalleri listesi – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%84%D1%96%D0%BD%D0%B0%D0%BB%D1%96%D0%B2_%D1%87%D0%B5%D0%BC%D0%BF%D1%96%D0%BE%D0%BD%D0%B0%D1%82%D1%83_%D1%81%D0%B2%D1%96%D1%82%D1%83_%D0%B7_%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%83" title="Список фіналів чемпіонату світу з футболу – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi badge-Q17506997 badge-featuredlist" title="featured list"><a href="//vi.wikipedia.org/wiki/Danh_s%C3%A1ch_tr%E1%BA%ADn_chung_k%E1%BA%BFt_Gi%E1%BA%A3i_v%C3%B4_%C4%91%E1%BB%8Bch_b%C3%B3ng_%C4%91%C3%A1_th%E1%BA%BF_gi%E1%BB%9Bi" title="Danh sách trận chung kết Giải vô địch bóng đá thế giới – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="//zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E7%9B%83%E8%B6%B3%E7%90%83%E8%B3%BD%E6%B1%BA%E8%B3%BD%E5%88%97%E8%A1%A8" title="世界盃足球賽決賽列表 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="//www.wikidata.org/wiki/Q2899571#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 7 October 2015, at 21:03.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=List_of_FIFA_World_Cup_finals&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="//wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/1.27.0-wmf.7/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/1.27.0-wmf.7/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /static/1.27.0-wmf.7/resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );</script><script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgBackendResponseTime":1055,"wgHostname":"mw1210"}); /* @nomin */
+} );</script>
+	</body>
+</html>
