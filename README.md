@@ -1,3 +1,3 @@
 **README**
 
-**Learning how to use python curl and how to extract data**
+**Learning how to use python curl and to extract data using BeautifulSoup**
