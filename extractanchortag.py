@@ -8,8 +8,10 @@ html_page = urllib.request.urlopen("https://en.wikipedia.org/wiki/List_of_FIFA_W
 #     print(link.get('href'))
 
 soup = BeautifulSoup(html_page, "html.parser")
-for link in soup.findAll('table')[2].findAll('tr'):
+for rows in soup.findAll('table')[2].findAll('tr'):
     # print(link.get('class'))
-    print(link)
+    # print(rows)
+    for row in rows.findAll('th'):
+        print(row)
 
 # print(soup.table.tbody.findAll("tr")[1].text)
