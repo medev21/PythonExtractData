@@ -46,5 +46,5 @@ for entry in myyear:
     mydict[entry] = mylist[i]
     i += 1
 
-print(mydict["1938"])
+print(mydict)
 # print(soup.table.tbody.findAll("tr")[1].text)
